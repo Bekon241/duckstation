@@ -469,7 +469,7 @@
     <message>
         <location filename="../../core/analog_joystick.cpp" line="293"/>
         <source>Circle</source>
-        <translation>Kółko</translation>
+        <translation>Koło</translation>
     </message>
     <message>
         <location filename="../../core/analog_joystick.cpp" line="294"/>
