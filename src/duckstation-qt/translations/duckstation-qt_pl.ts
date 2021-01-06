@@ -3148,12 +3148,12 @@ This file can be several gigabytes, so be aware of SSD wear.</source>
     <message>
         <location filename="../gamelistsettingswidget.ui" line="92"/>
         <source>Rescan All</source>
-        <translation>przeskanuj wszystko</translation>
+        <translation>Skanuj całość</translation>
     </message>
     <message>
         <location filename="../gamelistsettingswidget.ui" line="103"/>
         <source>Update Redump Database</source>
-        <translation>Zaktualizuj Baze Danych Redump</translation>
+        <translation>Aktualizuj Bazę</translation>
     </message>
     <message>
         <location filename="../gamelistsettingswidget.cpp" line="88"/>
