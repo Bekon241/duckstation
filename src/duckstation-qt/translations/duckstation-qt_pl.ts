@@ -903,17 +903,17 @@
     <message>
         <location filename="../../core/settings.cpp" line="509"/>
         <source>Intepreter (Slowest)</source>
-        <translation type="unfinished"></translation>
+        <translation>Intepreter (Wolny)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="510"/>
         <source>Cached Interpreter (Faster)</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpreter (Szybki)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="511"/>
         <source>Recompiler (Fastest)</source>
-        <translation type="unfinished"></translation>
+        <translation>Recompiler (Najszybszy)</translation>
     </message>
 </context>
 <context>
@@ -1530,7 +1530,7 @@
     <message>
         <location filename="../consolesettingswidget.ui" line="78"/>
         <source>Enable Clock Speed Control (Overclocking/Underclocking)</source>
-        <translation>Włącz kontrolę szybkości zegara (podkręcanie / podkręcanie)</translation>
+        <translation>Włącz kontrolę szybkości zegara (Podkręcanie/Obniżanie)</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.ui" line="98"/>
@@ -1620,7 +1620,7 @@
     <message>
         <location filename="../consolesettingswidget.cpp" line="39"/>
         <source>Unchecked</source>
-        <translation>nie zaznaczony</translation>
+        <translation>Niezaznaczony</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.cpp" line="40"/>
@@ -2530,7 +2530,7 @@ This file can be several gigabytes, so be aware of SSD wear.</source>
     <message>
         <location filename="../displaysettingswidget.cpp" line="83"/>
         <source>Downsamples the rendered image prior to displaying it. Can improve overall image quality in mixed 2D/3D games, but should be disabled for pure 3D games. Only applies to the hardware renderers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmniejszono próbkowanie renderowanego obrazu przed jego wyświetleniem. Może poprawić ogólną jakość obrazu w mieszanych grach 2D / 3D, ale należy ją wyłączyć w grach czysto 3D. Dotyczy tylko renderów sprzętowych.</translation>
     </message>
     <message>
         <location filename="../displaysettingswidget.cpp" line="85"/>
@@ -2539,7 +2539,7 @@ This file can be several gigabytes, so be aware of SSD wear.</source>
         <location filename="../displaysettingswidget.cpp" line="102"/>
         <location filename="../displaysettingswidget.cpp" line="105"/>
         <source>Checked</source>
-        <translation>Sprawdzone</translation>
+        <translation>Zaznaczone</translation>
     </message>
     <message>
         <location filename="../displaysettingswidget.cpp" line="86"/>
@@ -2568,7 +2568,7 @@ This file can be several gigabytes, so be aware of SSD wear.</source>
     <message>
         <location filename="../displaysettingswidget.cpp" line="100"/>
         <source>Presents frames on a background thread when fast forwarding or vsync is disabled. This can measurably improve performance in the Vulkan renderer.</source>
-        <translation type="unfinished"></translation>
+        <translatio>Przedstawia ramki w wątkach procesora w tle, gdy przewijanie w przód lub vsync jest wyłączone. Może to wymiernie poprawić wydajność w rendererze Vulkan.</translation>
     </message>
     <message>
         <location filename="../displaysettingswidget.cpp" line="103"/>
@@ -3054,7 +3054,7 @@ This file can be several gigabytes, so be aware of SSD wear.</source>
     <message>
         <location filename="../../frontend-common/game_list.cpp" line="46"/>
         <source>Graphical/Audio Issues</source>
-        <translation>Problemy graficzne / audio</translation>
+        <translation>Problemy graficzne/audio</translation>
     </message>
     <message>
         <location filename="../../frontend-common/game_list.cpp" line="47"/>
@@ -3110,7 +3110,7 @@ This file can be several gigabytes, so be aware of SSD wear.</source>
     <message>
         <location filename="../gamelistsearchdirectoriesmodel.cpp" line="31"/>
         <source>Recursive</source>
-        <translation>Rekursywne (Szuka w podfolderach)</translation>
+        <translation>Rekursywnie</translation>
     </message>
 </context>
 <context>
@@ -3153,7 +3153,7 @@ This file can be several gigabytes, so be aware of SSD wear.</source>
     <message>
         <location filename="../gamelistsettingswidget.ui" line="103"/>
         <source>Update Redump Database</source>
-        <translation>Aktualizuj Bazę</translation>
+        <translation>Aktualizuj Bazę Redump</translation>
     </message>
     <message>
         <location filename="../gamelistsettingswidget.cpp" line="88"/>
@@ -3832,7 +3832,7 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../generalsettingswidget.ui" line="127"/>
         <source>Fast Forward Speed:</source>
-        <translation>Szybka prędkość do przodu:</translation>
+        <translation>Przewijanie w przód:</translation>
     </message>
     <message>
         <location filename="../generalsettingswidget.ui" line="140"/>
@@ -4365,7 +4365,7 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
         <location filename="../../frontend-common/common_host_interface.cpp" line="1730"/>
         <location filename="../../frontend-common/common_host_interface.cpp" line="1743"/>
         <source>Audio</source>
-        <translation>Dzwięk</translation>
+        <translation>Dźwięk</translation>
     </message>
     <message>
         <location filename="../../frontend-common/common_host_interface.cpp" line="1707"/>
