@@ -4507,18 +4507,18 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.ui" line="38"/>
         <source>&amp;System</source>
-        <translation>System</translation>
+        <translation>&amp;System</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="42"/>
         <location filename="../mainwindow.cpp" line="653"/>
         <source>Change Disc</source>
-        <translation>Change Disc</translation>
+        <translation>Zmień dysk</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="50"/>
         <source>From Playlist...</source>
-        <translation>Z listy odtwarzania...</translation>
+        <translation>Z Playlisty...</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="60"/>
@@ -4528,17 +4528,17 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.ui" line="69"/>
         <source>Load State</source>
-        <translation>Wczytaj Stan</translation>
+        <translation>Wczytaj stan</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="78"/>
         <source>Save State</source>
-        <translation>Zapisz Stan</translation>
+        <translation>Zapisz stan</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="104"/>
         <source>S&amp;ettings</source>
-        <translation>Ustawienia</translation>
+        <translation>Ustawi&amp;enia</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="108"/>
@@ -4553,17 +4553,17 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.ui" line="140"/>
         <source>&amp;Help</source>
-        <translation>Pomoc</translation>
+        <translation>&amp;Pomoc</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="153"/>
         <source>&amp;Debug</source>
-        <translation>Debuger</translation>
+        <translation>&amp;Debuger</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="157"/>
         <source>Switch GPU Renderer</source>
-        <translation>Przełącz Renderer GPU</translation>
+        <translation>Przełącz rendering GPU</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="162"/>
@@ -4578,27 +4578,27 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.ui" line="193"/>
         <source>&amp;View</source>
-        <translation>widok</translation>
+        <translation>&amp;widok</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="197"/>
         <source>&amp;Window Size</source>
-        <translation>Rozmiar Okna</translation>
+        <translation>&amp;Rozmiar Okna</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="217"/>
         <source>&amp;Tools</source>
-        <translation>Narzędzia</translation>
+        <translation>&amp;Narzędzia</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="233"/>
         <source>toolBar</source>
-        <translation>pasek narzędzi</translation>
+        <translation>Pasek narzędzi</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="273"/>
         <source>Start &amp;Disc...</source>
-        <translation>Uruchom dysk</translation>
+        <translation>Uruchom &amp;dysk</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="282"/>
@@ -4608,87 +4608,87 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.ui" line="291"/>
         <source>&amp;Scan For New Games</source>
-        <translation>Skanuj w poszukiwaniu nowych gier</translation>
+        <translation>&amp;Skanuj w poszukiwaniu nowych gier</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="300"/>
         <source>&amp;Rescan All Games</source>
-        <translation>Przeskanuj ponownie wszystkie gry</translation>
+        <translation>&amp;Przeskanuj ponownie wszystkie gry</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="309"/>
         <source>Power &amp;Off</source>
-        <translation>Wyłacz zasilanie</translation>
+        <translation>&amp;Wyłącz zasilanie</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="318"/>
         <source>&amp;Reset</source>
-        <translation>Resetuj</translation>
+        <translation>&amp;Resetuj</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="330"/>
         <source>&amp;Pause</source>
-        <translation>Pauza</translation>
+        <translation>&amp;Pauza</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="339"/>
         <source>&amp;Load State</source>
-        <translation>Wczytaj Stan</translation>
+        <translation>&amp;Wczytaj stan</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="348"/>
         <source>&amp;Save State</source>
-        <translation>Zapisz Stan</translation>
+        <translation>&amp;Zapisz stan</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="353"/>
         <source>E&amp;xit</source>
-        <translation>Wyjdź</translation>
+        <translation>W&amp;yjdź</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="362"/>
         <source>B&amp;IOS Settings...</source>
-        <translation>Ustawienia BIOS</translation>
+        <translation>Ustawienia B&amp;IOS</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="371"/>
         <source>C&amp;onsole Settings...</source>
-        <translation>Ustawienia Konsoli</translation>
+        <translation>Ustawienia K&amp;onsoli</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="380"/>
         <source>&amp;Controller Settings...</source>
-        <translation>Ustawienia Kontrolera</translation>
+        <translation>Ustawienia &amp;kontrolerów</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="389"/>
         <source>&amp;Hotkey Settings...</source>
-        <translation>Skróty klawiszowe</translation>
+        <translation>&amp;Skróty klawiszowe</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="398"/>
         <source>&amp;Display Settings...</source>
-        <translation>Ustawienia Wyświetlania</translation>
+        <translation>Ustawienia &amp;wyświetlania</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="407"/>
         <source>&amp;Enhancement Settings...</source>
-        <translation>Ulepszenia Ustawienia</translation>
+        <translation>Ustawienia ul&amp;epszeń</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="416"/>
         <source>&amp;Post-Processing Settings...</source>
-        <translation>Post-Processing Ustawiania</translation>
+        <translation>Ustawiania &amp;Post-Processingu</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="425"/>
         <source>Fullscreen</source>
-        <translation>Pełny Ekran</translation>
+        <translation>Pełny ekran</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="430"/>
         <source>Resolution Scale</source>
-        <translation>Skalowanie Rozdzielczości</translation>
+        <translation>Skalowanie rozdzielczości</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="435"/>
@@ -4708,7 +4708,7 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.ui" line="450"/>
         <source>Check for &amp;Updates...</source>
-        <translation>Sprawdź Aktualizacje</translation>
+        <translation>Sprawdź aktualizacje</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="455"/>
@@ -4723,7 +4723,7 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.ui" line="469"/>
         <source>Change Disc...</source>
-        <translation>Zmień Dysk...</translation>
+        <translation>Zmień płytę...</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="478"/>
@@ -4733,22 +4733,22 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.ui" line="487"/>
         <source>Audio Settings...</source>
-        <translation>Ustawienia Dzwięku</translation>
+        <translation>Ustawienia dźwięku</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="496"/>
         <source>Game List Settings...</source>
-        <translation>Ustawienia Listy Gier</translation>
+        <translation>Ustawienia listy gier</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="505"/>
         <source>General Settings...</source>
-        <translation>Główne Ustawienia</translation>
+        <translation>Ustawienia główne</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="514"/>
         <source>Advanced Settings...</source>
-        <translation>Zaawansowane Ustawienia</translation>
+        <translation>Ustawienia zaawansowane</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="523"/>
@@ -4763,7 +4763,7 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.ui" line="537"/>
         <source>From File...</source>
-        <translation>Z Pliku...</translation>
+        <translation>Z pliku...</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="542"/>
@@ -4773,7 +4773,7 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.ui" line="547"/>
         <source>Remove Disc</source>
-        <translation>Remove Disc</translation>
+        <translation>Wyjmij płytę</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="552"/>
@@ -4783,7 +4783,7 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.ui" line="557"/>
         <source>Global State</source>
-        <translation>Globalny Stan</translation>
+        <translation>Globalny stan</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="565"/>
@@ -4813,7 +4813,7 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.ui" line="605"/>
         <source>Dump Audio</source>
-        <translation>Zrzuć Dzwięk</translation>
+        <translation>Zrzuć dźwięk</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="610"/>
@@ -4853,7 +4853,7 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.ui" line="667"/>
         <source>&amp;Screenshot</source>
-        <translation>zrzut ekranu</translation>
+        <translation>Zrzut ekranu</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="676"/>
@@ -4863,7 +4863,7 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.ui" line="685"/>
         <source>Resume</source>
-        <translation>wznawianie</translation>
+        <translation>Wznawianie</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="688"/>
@@ -4873,57 +4873,57 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.ui" line="699"/>
         <source>&amp;Toolbar</source>
-        <translation>pasek narzędzi</translation>
+        <translation>Pasek &amp;narzędzi</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="710"/>
         <source>&amp;Status Bar</source>
-        <translation>pasek stanu</translation>
+        <translation>Pasek &amp;stanu</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="715"/>
         <source>Game &amp;List</source>
-        <translation>Lista Gier</translation>
+        <translation>&amp;Lista gier</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="723"/>
         <source>System &amp;Display</source>
-        <translation>Wyświetlacz Systemu</translation>
+        <translation>&amp;Ekran PSX</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="728"/>
         <source>Game &amp;Properties</source>
-        <translation>Właściwości Gry</translation>
+        <translation>&amp;Właściwości gry</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="733"/>
         <source>Memory &amp;Card Editor</source>
-        <translation>Edytor Karty Pamięci</translation>
+        <translation>Edytor karty pamięci</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="738"/>
         <source>C&amp;heat Manager</source>
-        <translation>Menadzer Kodów</translation>
+        <translation>Menadzer kodów</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="743"/>
         <source>CPU D&amp;ebugger</source>
-        <translation>Debuger CPU</translation>
+        <translation>D&amp;ebuger CPU</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="748"/>
         <source>Game &amp;Grid</source>
-        <translation>Siatka Gier</translation>
+        <translation>&amp;Siatka gier</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="759"/>
         <source>Show Titles (Grid View)</source>
-        <translation>Pokaż Tytuły (Widok Siatki)</translation>
+        <translation>Pokaż tytuły (Widok siatki)</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="764"/>
         <source>Zoom &amp;In (Grid View)</source>
-        <translation>Powiększ(Widok Siatki)</translation>
+        <translation>&amp;Powiększ (Widok siatki)</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="767"/>
@@ -4933,7 +4933,7 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.ui" line="772"/>
         <source>Zoom &amp;Out (Grid View)</source>
-        <translation>Pomniejsz (Widok Siatki)</translation>
+        <translation>Pomniejsz (Widok siatki)</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="775"/>
@@ -4943,7 +4943,7 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.ui" line="780"/>
         <source>Refresh &amp;Covers (Grid View)</source>
-        <translation>Odśwież okładki (Widok Siatki)</translation>
+        <translation>Odśwież okładki (Widok siatki)</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="785"/>
@@ -4974,12 +4974,12 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
         <location filename="../mainwindow.cpp" line="428"/>
         <location filename="../mainwindow.cpp" line="443"/>
         <source>Select Disc Image</source>
-        <translation>Wybierz Obraz płyty</translation>
+        <translation>Wybierz obraz płyty</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="469"/>
         <source>Cheat Manager</source>
-        <translation>Menadzer Kodów</translation>
+        <translation>Menadzer kodów</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="604"/>
@@ -4999,16 +4999,16 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.cpp" line="624"/>
         <source>Default Boot</source>
-        <translation>Domyślny Rozruch</translation>
+        <translation>Domyślny rozruch</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="628"/>
         <source>Fast Boot</source>
-        <translation>Szybki Rozruch</translation>
+        <translation>Szybki rozruch</translation>
     </message>
     <message>
-        <source>Pełny Rozruch</source>
-        <translation type="vanished">unfinished</translation>
+        <source>Full Boot</source>
+        <translation type="vanished">Pełny rozruch</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="634"/>
@@ -5018,7 +5018,7 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.cpp" line="642"/>
         <source>Boot and Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozruch i debugowanie</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="663"/>
@@ -5028,7 +5028,7 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../mainwindow.cpp" line="671"/>
         <source>Select Cover Image</source>
-        <translation>Wybierz Obraz okładki</translation>
+        <translation>Wybierz obraz okładki</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="672"/>
