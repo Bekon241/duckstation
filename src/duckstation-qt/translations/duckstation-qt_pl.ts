@@ -3857,12 +3857,12 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../generalsettingswidget.ui" line="179"/>
         <source>Current Version:</source>
-        <translation type="unfinished">Obecna wersja:</translation>
+        <translation>Obecna wersja:</translation>
     </message>
     <message>
         <location filename="../generalsettingswidget.ui" line="215"/>
         <source>Check for Updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizuj teraz</translation>
     </message>
     <message>
         <location filename="../generalsettingswidget.cpp" line="58"/>
