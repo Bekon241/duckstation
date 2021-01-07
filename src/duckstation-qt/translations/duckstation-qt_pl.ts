@@ -210,7 +210,7 @@
     <message>
         <location filename="../advancedsettingswidget.cpp" line="148"/>
         <source>Disable All Enhancements</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyłącz wszystkie rozszerzenia</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="198"/>
@@ -2401,7 +2401,7 @@ This file can be several gigabytes, so be aware of SSD wear.</source>
         <location filename="../displaysettingswidget.ui" line="84"/>
         <location filename="../displaysettingswidget.cpp" line="99"/>
         <source>Threaded Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Prezentacja wątkowa</translation>
     </message>
     <message>
         <location filename="../displaysettingswidget.ui" line="96"/>
@@ -2696,7 +2696,7 @@ This file can be several gigabytes, so be aware of SSD wear.</source>
     <message>
         <location filename="../enhancementsettingswidget.ui" line="129"/>
         <source>PGXP (Precision Geometry Transform Pipeline)</source>
-        <translation>Precyzyjna transformacja geometrii przetwarzania potokowego przez cpu</translation>
+        <translation>Precyzyjna transformacja geometrii przetwarzania potokowego przez CPU</translation>
     </message>
     <message>
         <location filename="../enhancementsettingswidget.ui" line="135"/>
@@ -2799,12 +2799,12 @@ This file can be several gigabytes, so be aware of SSD wear.</source>
     <message>
         <location filename="../enhancementsettingswidget.cpp" line="81"/>
         <source>Chroma Smoothing For 24-Bit Display</source>
-        <translation>Wygładzanie Chroma dla 24-bitowego wyświetlacza (Nasze oczy są mniej wrażliwe na szczegóły w kanale chrominancji, więc jest to bardzo przydatny sposób radzenia sobie z szumem / artefaktami bez dużego wpływu na postrzegane szczegóły.)</translation>
+        <translation>Wygładzanie Chroma dla 24-bitowego wyświetlacza</translation>
     </message>
     <message>
         <location filename="../enhancementsettingswidget.cpp" line="82"/>
         <source>Smooths out blockyness between colour transitions in 24-bit content, usually FMVs. Only applies to the hardware renderers.</source>
-        <translation>Wygładza blokowanie między przejściami kolorów w treści 24-bitowej, zwykle w FORMACH. Dotyczy tylko urządzeń renderujących.</translation>
+        <translation>(Nasze oczy są mniej wrażliwe na szczegóły w kanale chrominancji, więc jest to bardzo przydatny sposób radzenia sobie z szumem/artefaktami bez dużego wpływu na postrzegane szczegóły.) Wygładza blokowanie między przejściami kolorów w treści 24-bitowej, zwykle w FMVs. Dotyczy tylko urządzeń renderujących.</translation>
     </message>
     <message>
         <location filename="../enhancementsettingswidget.cpp" line="85"/>
@@ -2844,7 +2844,7 @@ This file can be several gigabytes, so be aware of SSD wear.</source>
     <message>
         <location filename="../enhancementsettingswidget.cpp" line="107"/>
         <source>Attempts to reduce polygon Z-fighting by testing pixels against the depth values from PGXP. Low compatibility, but can work well in some games. Other games may need a threshold adjustment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Próbuje zredukować poligony Z-fighting przez testowanie pikseli względem wartości głębi z PGXP. Niska kompatybilność, ale może działać dobrze w niektórych grach. Inne gry mogą wymagać dostosowania progu. Z-fighting - Gdy dwa fragmenty geometrii są nie do odróżnienia przy ograniczonej rozdzielczości bufora Z (to znaczy nie można stwierdzić, który z nich znajduje się przed drugim), nie ma pewności, który z nich zostanie narysowany w buforze kolorów.</translation>
     </message>
 </context>
 <context>
@@ -3414,7 +3414,7 @@ Spowoduje to pobranie około 4 megabajtów za pośrednictwem bieżącego połąc
     <message>
         <location filename="../gamepropertiesdialog.ui" line="422"/>
         <source>PGXP Depth Buffer</source>
-        <translation type="unfinished"></translation>
+        <translation>Bufor głębi PGXP</translation>
     </message>
     <message>
         <location filename="../gamepropertiesdialog.ui" line="437"/>
